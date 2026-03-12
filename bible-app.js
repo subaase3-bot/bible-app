@@ -111,10 +111,10 @@ document.getElementById("emotionResult").innerHTML=result;
 
 // DAILY VERSE
 const dailyVerses=[
-"Psalm 23:1 – The Lord is my shepherd",
-"Isaiah 41:10 – Do not fear",
-"John 3:16 – God loved the world",
-"Philippians 4:6 – Do not be anxious"
+"Psalm 23:1 â€“ The Lord is my shepherd",
+"Isaiah 41:10 â€“ Do not fear",
+"John 3:16 â€“ God loved the world",
+"Philippians 4:6 â€“ Do not be anxious"
 ];
 
 document.getElementById("dailyVerse").innerText=
